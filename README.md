@@ -4,14 +4,14 @@ This repository provides an approach to compare your Static Web pages using Perc
 
 ## How it works
 
-    This repo is purely depended on the npm package https://www.npmjs.com/package/@percy/cli which is used to interact with percy.io and upload the screenshot/snapshots for visual comparison
+This repo is purely depended on the npm package https://www.npmjs.com/package/@percy/cli which is used to interact with percy.io and upload the screenshot/snapshots for visual comparison
 
-    We make use of a simple yml file to configure all the URLs that needs to tested for visual comparison. 
-    In this project the snapshot.yml file serves as a configuration file will all the URLs. 
+We make use of a simple yml file to configure all the URLs that needs to tested for visual comparison. 
+In this project the snapshot.yml file serves as a configuration file will all the URLs. 
 
 ## Getting Started 
 
-    1. Clone the repository
+ 1. Clone the repository
 
     2. Ensure you have the following dependencies install on the Machine
 
